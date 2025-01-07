@@ -1,4 +1,4 @@
-# saving-and-loading-resource-data-example-godot-project
+# Saving and loading resource data in Godot 4.
 
 This project demostrates saving and loading resource data in Godot 4. 
 
